@@ -1,0 +1,32 @@
+Các bước thi mutiple
+B1:
+Mở folder tool: 
+Window + R -> nhập %appdata% -> Folder (Files,Adobe)
+Chạy  task Run ADMIN ( wifi cheat)
+Click trái + kéo lên hiện (4Start) tool hoạt động
+B2:
+Đổi lại mạng Exem đăng nhập vào EOS
+Sau khi đăng nhập EOS thao tác đổi mạng
+
+Thao tác đổi mạng 
+CLick giu Trái + Lăn con lăn chuột  xuống (DH FPT or Student, vv)
+
+
+B3:
+Đánh dấu câu rồi next 
+Mỗi lần next đợi khoảng 3-5 giây để đề đc chụp
+Sau khi chụp xong quay lại đến câu đánh dấu
+Sau đó các bạn tự làm bài
+
+B4: 
+Đợi tầm khoảng 20-30 phút cho đáp án được gửi vô
+Thao tác out khoanh
+Click trái + kéo xuống dưới  
+Sau khi nhận hết đáp án thao tác Đổi mạng về Exem
+Click giu Trái + Lăn con lăn chuột lên (Exem)
+Thao tác 2-3 lần mỗi lần cách nhau 30s - 1 phút để cho nó ổn định mạng
+
+Hoặc đợi giám thị đi lên trên bảng hoặc bàn giáo viên 
+Ctrl + Alt +Del để check wifi
+
+Tắt tool (Tùy vào setting mỗi người thường là Alit + A) rồi nộp này

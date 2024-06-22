@@ -1,0 +1,45 @@
+Các bước thi reading , lis , writing
+B1:
+Mở folder tool: 
+Window + R -> nhập %appdata% -> Folder (Files, Adobe)
+Chạy  task Run ADMIN ( wifi cheat)
+Click trái + kéo lên hiện (4Start) tool hoạt động
+B2:
+Đổi lại mạng Exem đăng nhập vào EOS
+
+Thao tác chụp đáp án thủ công (reading , lis ,writing)
+Click giữ trái + kéo trái
+Chụp sao cho đầy đủ dữ liệu đề
+
+Thao tác đổi mạng 
+CLick giu Trái + Lăn con lăn chuột  xuống (DH FPT or Student, vv)
+
+Rồi thao tác giả vờ làm 
+Đối vs (reading, lis ) 5-10 phút có đáp án
+Đối vs ( Writing) 15-20 phút có đấp án
+
+B3: 
+Thao tác nhận đáp án của (reading , lis )
+Click giữ trái + kéo lên 
+
+Thao tác nhận đáp án của (writing)
+Click giữ trái + kéo xuống
+Pate
+Click giữ trái + kéo phải 
+
+Sau đó check lại chính tả cũng như các phần
+  
+
+B4:
+Sau khi nhận hết đáp án 
+
+Đổi mạng về Exem
+Click giu Trái + Lăn con lăn chuột lên (Exem)
+Thao tác 2-3 lần mỗi lần cách nhau 30s - 1 phút để cho nó ổn định mạng
+
+Hoặc đợi giám thị đi lên trên bảng hoặc bàn giáo viên 
+Ctrl + Alt +Del để check wifi
+
+Khi mà chắc chắn đổi về Exem nộp bài
+
+

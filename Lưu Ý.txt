@@ -1,0 +1,16 @@
+Check Interface Wifi
+netsh wlan show interface
+
+Set wifi : Wifi HL 1, HCM 2, Cần Thơ 3 (DN QN nhập tay)
+
+QN:
+FPT University Quy Nhon
+FPT-EXAMONLINE
+
+FUDA:
+FPT University
+Exam
+
+
+Link tải tool lưu sẵn trên máy vất qua untraview
+vl.hotrohoctap.net/d.zip
